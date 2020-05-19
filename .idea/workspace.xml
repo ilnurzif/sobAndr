@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78f7a7e5-e534-40f2-a202-e83e9acace65" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c89qNgF4NhaYpVRyMG7IVx82qF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/task2/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.task1">
+    <configuration name="task1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.MeteoStation" />
+      <module name="less" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="geek.MainTask2" />
+      <module name="task2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.task1" />
+      <item itemvalue="Application.task2" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78f7a7e5-e534-40f2-a202-e83e9acace65" name="Default Changelist" comment="" />
+      <created>1589899542400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589899542400</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="112" y="10" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589909483191">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="112" y="10" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1589909483191" />
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1589908756896">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1589908756896" />
+    <state x="400" y="21" key="#task2" timestamp="1589902390785">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="400" y="21" key="#task2/0.0.1366.728@0.0.1366.728" timestamp="1589902390785" />
+    <state width="1306" height="169" key="GridCell.Tab.0.bottom" timestamp="1589909504112">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="169" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589909504112" />
+    <state width="1306" height="169" key="GridCell.Tab.0.center" timestamp="1589909504112">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="169" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589909504112" />
+    <state width="1306" height="169" key="GridCell.Tab.0.left" timestamp="1589909504112">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="169" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589909504112" />
+    <state width="1306" height="169" key="GridCell.Tab.0.right" timestamp="1589909504112">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="169" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589909504112" />
+    <state width="1306" height="210" key="GridCell.Tab.1.bottom" timestamp="1589901234517">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="210" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589901234517" />
+    <state width="1306" height="210" key="GridCell.Tab.1.center" timestamp="1589901234517">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="210" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1589901234517" />
+    <state width="1306" height="210" key="GridCell.Tab.1.left" timestamp="1589901234517">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="210" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1589901234517" />
+    <state width="1306" height="210" key="GridCell.Tab.1.right" timestamp="1589901234517">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="210" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1589901234517" />
+    <state x="499" y="140" key="chooseDestDirectoryDialog" timestamp="1589909118266">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="499" y="140" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1589909118266" />
+    <state x="65" y="0" key="new project wizard" timestamp="1589902063640">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1589902063640" />
+  </component>
+</project>
